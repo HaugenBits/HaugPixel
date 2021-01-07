@@ -1,8 +1,8 @@
 ### Hello! 
 
-I am a student at the university of Bergen where I am working on a bachelor degree. 
+I am a student at the university of Bergen where I am currently working on a bachelor degree. 
 
-This will be my space for smaller and larger projects, where as some will be related to school and others for the fun of learning. 🌱
+This will be my space for small to larger projects, some related to school and others for the fun of learning.
 
 Enjoy the visit!✨
 

@@ -1,7 +1,7 @@
 ### Hello! 
 
 I am a student at the university of Bergen where I am currently working on a bachelor degree. 
-This will be my space for small to larger projects, some related to school and others for the fun of learning.
+This is my space for small to larger projects, some related to school and others for the fun of learning.
 
 Enjoy the visit!✨
 

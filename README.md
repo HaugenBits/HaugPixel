@@ -1,9 +1,7 @@
 ### Hello! 
 
-I am a student at the university of Bergen where I am currently working on a bachelor degree. 
+I am a master student at the algorithm group at the university of Bergen 
 This is my space for small to larger projects, some related to school and others for the fun of learning.
-
-Enjoy the visit!✨
 
 <!--
 **HaugPixel/HaugPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
